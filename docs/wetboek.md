@@ -588,16 +588,16 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 |   |   |
 |---|---|
 | Blokkeren van de weg | € 720,- |
-| Maken van een U-turn daar waar dat niet is toegestaan | € 420,- |
+| Maken van een U-turn daar waar dat niet is toegestaan | € 950,- |
 | Rijden in een voertuig dat niet toegestaan is op de openbare weg | € 3300,-  |
 | Maken van een Burnout  | € 430,- |
-| Onnodig Claxoneren | € 370,-  |
+| Onnodig Claxoneren | € 1000,-  |
 | Over een doorgestrokken streep rijden  | € 480,-  |
 | Aan de verkeerde kant van de weg rijden (spookrijden) | € 1860,- |
-| Illegaal off road rijden | € 420,- |
-| Stilstaan waar dit niet is toegestaan | € 420,- |
+| Illegaal off road rijden | € 2500,- |
+| Stilstaan waar dit niet is toegestaan | € 3000,- |
 | Onnodig links rijden | € 420,-  |
-| Doorrijden bij een stopbord | € 420,- |
+| Doorrijden bij een stopbord | € 950,- |
 
 ### Artikel III-14 Illegale voertuigen
 
@@ -951,13 +951,13 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |   | *Celstraf*  | *Taakstraf*  | *boete*  |
 |---|---|---|---|
-|  **Eerste Veroordeling** |   | 20 uur  | € 320,-  |
-| **Tweede Veroordeling**  |   | 30 uur  | € 320,-  |
-| **Meerdere Veroordelingen**  |   | 40 uur  | € 320,-  |
+|  **Eerste Veroordeling** |   | 24 uur  | € 3000,-  |
+| **Tweede Veroordeling**  |   | 30 uur  | € 3500,-  |
+| **Meerdere Veroordelingen**  |   | 40 uur  | € 4000,-  |
 
 ### Artikel VIII-2 Belediging (266 SR)
 
-1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €1200,- per geval.
+1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €2500,- per geval.
 2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete met 33% verhoogd.
 
 ### Artikel VIII-3 Opgeven valse gegevens (435 SR)
@@ -966,7 +966,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ### Artikel VIII-4 Niet op eerste vordering tonen van identiteitsbewijs (447e SR)
 
-1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €320,- per geval.
+1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €1250,- per geval.
 
 ### Artikel VIII-5 Openbare dronkenschap (453 SR)
 
